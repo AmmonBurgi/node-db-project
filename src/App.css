@@ -1,38 +1,71 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  text-align: center;
+  background-image: url('https://i.pinimg.com/originals/6a/ef/ed/6aefedc09c7c38eead63ca952fb86c12.jpg');
+  background-size: 100vw 100%;
+  height: 100vh;
+  /* width: 100%; */
+  background-repeat: repeat-y;
+
+  ;
+}
+
+header {
+  background-color: rgb(24, 22, 22);
+  width: 100%;
+  height: 10vh;
+}
+.movie-display{
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  align-items: center;
 
-.App-link {
-  color: #61dafb;
 }
+.map-movie{
+  position: relative;
+  top: 20px;
+  left: 15vw;
+  display: flex;
+  overflow-x: scroll;
+  /* overflow: scroll; */
+  background-color: rgb(24, 22, 22);
+  width: 70%;
+  height: 300px;
+  justify-content: flex-start;
+  align-items: center;
+  
+}
+.movie-map{
+  margin: 0 10px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+img{
+  margin: 5px;
+  width: 180px;
+  height: 250px; 
+}
+.movie-list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.fav-component{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 20px;
+border: 5px;
+border-style: inset;
+border-color: blue;
+width: 65vw;
+}
+.fav-movie-image{
+  position: relative;
+  left: 5px;
+}
+.movie-info{
+  display: flex;
+  flex-direction: column;
 }

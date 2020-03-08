@@ -1,26 +1,51 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import Header from './Components/Header';
+import MapMovie from './Components/MapMovie';
+import MovieList from './Components/MovieList';
+import axios from 'axios';
 
-function App() {
+class App extends Component {
+  constructor(){
+    super()
+    this.state={
+      favMovies: []
+    }
+  }
+  addMovies = (movie) =>{
+    axios.post('/api/movies', {movie})
+    .then(res =>{ 
+      // console.log(res.data)
+      this.setState({
+        favMovies: res.data
+      })
+    }).catch(err => { 
+      console.log(err)
+    })
+}
+    deleteMovie = (id) =>{
+      axios.delete(`/api/movies/${id}`)
+      .then(res => {
+        this.setState({
+          favMovies: res.data
+        })
+      })
+    }
+  
+  render(){
+    console.log(this.state.favMovies)
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <Header />
+     <MapMovie addMovie={this.addMovies}/>
+     <MovieList 
+     favMovies={this.state.favMovies}
+     deleteMovie={this.deleteMovie}
+     />
     </div>
   );
+  }
 }
 
 export default App;
