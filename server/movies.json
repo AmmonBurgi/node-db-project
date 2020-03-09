@@ -5,7 +5,7 @@
 		"phase" : "Phase One: Avengers Assembled",
 		"category_name" : "Action",
 		"releaseYear" : 2015,
-		"running_time" : 126,
+		"runningTime" : "126 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -16,7 +16,8 @@
 		"budget" : "140,000,000",
 		"gross" : "318,298,180",
 		"time_stamp" : "2015-05-03",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/61h3QYQmxeL._AC_SY679_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/61h3QYQmxeL._AC_SY679_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 2,
@@ -24,7 +25,7 @@
 		"phase" : "Phase One: Avengers Assembled",
 		"category_name" : "Action",
 		"releaseYear" : 2008,
-		"running_time" : 112,
+		"runningTime" : "112 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "DVD",
 		"number_discs" : 3,
@@ -35,7 +36,8 @@
 		"budget" : "150,000,000",
 		"gross" : "134,518,390",
 		"time_stamp" : "2008-10-21",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/41EQILxBRpL._AC_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/41EQILxBRpL._AC_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 3,
@@ -43,7 +45,7 @@
 		"phase" : "Phase One: Avengers Assembled",
 		"category_name" : "Action",
 		"releaseYear" : 2015,
-		"running_time" : 124,
+		"runningTime" : "124 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -54,7 +56,8 @@
 		"budget" : "200,000,000",
 		"gross" : "312,057,433",
 		"time_stamp" : "2015-05-03",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/81sC6pkIARL._AC_SY500_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/81sC6pkIARL._AC_SY500_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 4,
@@ -62,7 +65,7 @@
 		"phase" : "Phase One: Avengers Assembled",
 		"category_name" : "Action",
 		"releaseYear" : 2011,
-		"running_time" : 115,
+		"runningTime" : "115 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray + DVD",
 		"number_discs" : 2,
@@ -73,7 +76,8 @@
 		"budget" : "150,000,000",
 		"gross" : "181,015,141",
 		"time_stamp" : "2011-10-30",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/511PQT86A0L._AC_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/511PQT86A0L._AC_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 5,
@@ -81,7 +85,7 @@
 		"phase" : "Phase One: Avengers Assembled",
 		"category_name" : "Action",
 		"releaseYear" : 2011,
-		"running_time" : 124,
+		"runningTime" : "124 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray + DVD",
 		"number_discs" : 2,
@@ -92,7 +96,8 @@
 		"budget" : "140,000,000",
 		"gross" : "176,636,816",
 		"time_stamp" : "2011-10-30",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/71pXkYJfZaL._AC_SY741_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/71pXkYJfZaL._AC_SY741_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 6,
@@ -100,7 +105,7 @@
 		"phase" : "Phase One: Avengers Assembled",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2012,
-		"running_time" : 143,
+		"runningTime" : "143 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray + DVD",
 		"number_discs" : 2,
@@ -111,7 +116,8 @@
 		"budget" : "220,000,000",
 		"gross" : "623,279,547",
 		"time_stamp" : "2012-10-20",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/51k1da28EmL._AC_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/51k1da28EmL._AC_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 7,
@@ -119,7 +125,7 @@
 		"phase" : "Phase Two",
 		"category_name" : "Action",
 		"releaseYear" : 2015,
-		"running_time" : 130,
+		"runningTime" : "130 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray + DVD",
 		"number_discs" : 2,
@@ -130,7 +136,8 @@
 		"budget" : "200,000,000",
 		"gross" : "408,992,272",
 		"time_stamp" : "2015-05-03",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/71aYephNm9L._AC_SY606_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/71aYephNm9L._AC_SY606_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 8,
@@ -138,7 +145,7 @@
 		"phase" : "Phase Two",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2013,
-		"running_time" : 112,
+		"runningTime" : "112 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 2,
@@ -149,7 +156,8 @@
 		"budget" : "170,000,000",
 		"gross" : "206,360,018",
 		"time_stamp" : "2014-03-04",
-		"img" : "https://upload.wikimedia.org/wikipedia/en/7/7e/Thor_-_The_Dark_World_poster.jpg"
+		"img" : "https://upload.wikimedia.org/wikipedia/en/7/7e/Thor_-_The_Dark_World_poster.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 9,
@@ -157,7 +165,7 @@
 		"phase" : "Phase Two",
 		"edition" : "Blu-ray Edition",
 		"releaseYear" : 2014,
-		"running_time" : 136,
+		"runningTime" : "136 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -168,7 +176,8 @@
 		"budget" : "170,000,000",
 		"gross" : "259,746,958",
 		"time_stamp" : "2014-09-19",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/91owo83n7SL._AC_SY606_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/91owo83n7SL._AC_SY606_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 10,
@@ -176,7 +185,7 @@
 		"phase" : "Phase Two",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2014,
-		"running_time" : 121,
+		"runningTime" : "121 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -187,7 +196,8 @@
 		"budget" : "170,000,000",
 		"gross" : "333,130,696",
 		"time_stamp" : "2014-12-07",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/51T5sJngQLL._AC_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/51T5sJngQLL._AC_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 11,
@@ -195,7 +205,7 @@
 		"phase" : "Phase Two",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2015,
-		"running_time" : 141,
+		"runningTime" : "141 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -206,7 +216,8 @@
 		"budget" : "250,000,000",
 		"gross" : "458,991,599",
 		"time_stamp" : "2015-12-07",
-		"img" : "https://meshthemoviefreak.files.wordpress.com/2015/05/avengers-age-of-ultron-movie-poster-marvel.jpg?w=603&h=804"
+		"img" : "https://meshthemoviefreak.files.wordpress.com/2015/05/avengers-age-of-ultron-movie-poster-marvel.jpg?w=603&h=804",
+		"stars" : 5
 	},
 	{
 		"id" : 12,
@@ -214,7 +225,7 @@
 		"phase" : "Phase Two",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2015,
-		"running_time" : 132,
+		"runningTime" : "132 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -225,7 +236,8 @@
 		"budget" : "130,000,000",
 		"gross" : "179,017,481",
 		"time_stamp" : "2015-12-07",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/51jqtx8KltL._AC_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/51jqtx8KltL._AC_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 13,
@@ -233,7 +245,7 @@
 		"phase" : "Phase Three",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2016,
-		"running_time" : 147,
+		"runningTime" : "147 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -244,7 +256,8 @@
 		"budget" : "250,00,000",
 		"gross" : "408,084,349",
 		"time_stamp" : "2017-11-09",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/71VwAGJmXrL._AC_SY741_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/71VwAGJmXrL._AC_SY741_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 14,
@@ -252,7 +265,7 @@
 		"phase" : "Phase Three",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2016,
-		"running_time" : 115,
+		"runningTime" : "115 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -263,7 +276,8 @@
 		"budget" : "165,000,000",
 		"gross" : "232,641,920",
 		"time_stamp" : "2017-11-09",
-		"img" : "https://www.movieartarena.com/imgs/doctorstrangeib.jpg"
+		"img" : "https://www.movieartarena.com/imgs/doctorstrangeib.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 15,
@@ -271,7 +285,7 @@
 		"phase" : "Phase Three",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2017,
-		"running_time" : 136,
+		"runningTime" : "136 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -282,7 +296,8 @@
 		"budget" : "200,000,000",
 		"gross" : "389,213,281",
 		"time_stamp" : "2017-11-09",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/71EJMbsMCKL._AC_SY679_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/71EJMbsMCKL._AC_SY679_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 16,
@@ -290,7 +305,7 @@
 		"phase" : "Phase Three",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2017,
-		"running_time" : 133,
+		"runningTime" : "133 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -301,7 +316,8 @@
 		"budget" : "175,000,000",
 		"gross" : "314,057,748",
 		"time_stamp" : "2017-11-09",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/A1CcbJfKqJL._AC_SY679_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/A1CcbJfKqJL._AC_SY679_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 17,
@@ -309,7 +325,7 @@
 		"phase" : "Phase Three",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2017,
-		"running_time" : 130,
+		"runningTime" : "130 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -318,9 +334,10 @@
 		"status" : 1,
 		"releaseDate" : "November 3, 2017",
 		"budget" : "180,000,000",
-		"gross" : "tbd",
+		"gross" : "853,977,126",
 		"time_stamp" : "2017-11-09",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/71ewZLJcGVL._AC_SY606_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/71ewZLJcGVL._AC_SY606_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 18,
@@ -328,7 +345,7 @@
 		"phase" : "Phase Three",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2018,
-		"running_time" : 0,
+		"runningTime" : "135 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -337,9 +354,10 @@
 		"status" : 1,
 		"releaseDate" : "February 16, 2018",
 		"budget" : "tbd",
-		"gross" : "tbd",
+		"gross" : "1.23 billion",
 		"time_stamp" : "2018-01-09",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/81H8e4B8SlL._AC_SY606_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/81H8e4B8SlL._AC_SY606_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 19,
@@ -347,7 +365,7 @@
 		"phase" : "Phase Three",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2018,
-		"running_time" : 0,
+		"runningTime" : "160 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -356,9 +374,10 @@
 		"status" : 1,
 		"releaseDate" : "May 4, 2018",
 		"budget" : "tbd",
-		"gross" : "tbd",
+		"gross" : "2,048,359,754",
 		"time_stamp" : "2018-01-09",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/81En6m%2BG2%2BL._AC_SL1500_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/81En6m%2BG2%2BL._AC_SL1500_.jpg",
+		"stars" : 5
 	},
 	{
 		"id" : 20,
@@ -366,7 +385,7 @@
 		"phase" : "Phase Three",
 		"category_name" : "Science Fiction",
 		"releaseYear" : 2018,
-		"running_time" : 0,
+		"runningTime" : "125 min",
 		"rating_name" : "PG-13",
 		"disc_format_name" : "Blu-ray",
 		"number_discs" : 1,
@@ -375,8 +394,9 @@
 		"status" : 1,
 		"releaseDate" : "July 6, 2018",
 		"budget" : "tbd",
-		"gross" : "tbd",
+		"gross" : "622.7 million",
 		"time_stamp" : "2018-01-09",
-		"img" : "https://images-na.ssl-images-amazon.com/images/I/71SH0MJkciL._AC_SY679_.jpg"
+		"img" : "https://images-na.ssl-images-amazon.com/images/I/71SH0MJkciL._AC_SY679_.jpg",
+		"stars" : 5
 	}
 ]

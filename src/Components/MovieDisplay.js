@@ -5,7 +5,7 @@ function MovieDisplay(props){
     return(
         // <div className='movie-display'>
             <div className='movie-map'>
-                <img onClick={() => props.addClick(props.movieInfo)} src={props.movieInfo.img} alt='movies' />
+                <img onClick={() => props.addMovie(props.movieInfo)} src={props.movieInfo.img} alt='movies' />
             </div>
         /* </div> */
     )

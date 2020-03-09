@@ -10,6 +10,7 @@ app.use(express.json())
 app.get('/api/movies', ctrl.getMovies)
 app.post('/api/movies', ctrl.addMovie)
 app.delete('/api/movies/:id', ctrl.deleteMovie)
+app.put('/api/movies/:id', ctrl.updateStars)
 
 const port = 4020
 app.listen(port, ()=> console.log(`Server is listening on port ${port}`))

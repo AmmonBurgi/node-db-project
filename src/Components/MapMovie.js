@@ -19,15 +19,17 @@ class MapMovie extends Component{
     }
     addClick = (movie) =>{
         // console.log(movie)
-       this.props.addMovie(movie)
+    //    this.props.addMovie(movie)
     }
   
     render(){
         // console.log(this.movieInfo.title)
-        let movieMap = this.state.movieInfo.map(element => { 
+        let movieMap = this.state.movieInfo.map((element, index) => { 
             return <MovieDisplay 
+            key={index}
             movieInfo={element} 
             addClick={this.addClick}
+            addMovie={this.props.addMovie}
             />
         })
         
